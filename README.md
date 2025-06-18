@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory - Group Policy Management: Password Policies</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines how to configure domain-wide password policies using Group Policy Management in Active Directory.<br />
 
 
 <h2>Video Demonstration</h2>
