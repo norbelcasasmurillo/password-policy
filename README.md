@@ -65,7 +65,7 @@ Computer Configuration -> Policies -> Window Setting -> Security Setting -> Acco
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/44894f54-01e9-401e-94c0-79d1a3c7cf78)
+![image](https://github.com/user-attachments/assets/7dee4c21-72a3-430a-b33a-85efc9777525)
 </p>
 <br />
 
@@ -75,7 +75,7 @@ Open Minimum Password length Properties. Adjust password length to 14 characters
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/bc688b31-7d36-4edf-ab4f-bef5ab2a741c)
+![image](https://github.com/user-attachments/assets/be77f35a-5232-48db-8843-087f8f1a00d8)
 </p>
 <br />
 
@@ -96,7 +96,7 @@ Open "Maximum password age" Properties. Adjust "Maximum password age" to 30 days
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/486e78b4-257d-4f84-b9cd-811e774c63c3)
+![image](https://github.com/user-attachments/assets/34df55db-e530-4b24-a4d5-d91cf61a07ca)
 
 </p>
 <br />
@@ -107,7 +107,7 @@ Open "Enforce Password History" Properties. Ensure that "Enforce Password Histor
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/3c639423-8a55-4769-9554-089ba9fc2509)
+![image](https://github.com/user-attachments/assets/30450069-f987-426d-b045-ec04adef3021)
 
 </p>
 <br />
@@ -118,7 +118,7 @@ Open "Minimum Password age" Properties. Adjust "Minimum Password age" to 1 day, 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/2f8c4008-45f7-440a-8ce1-204c1f877d09)
+![image](https://github.com/user-attachments/assets/35391ba1-ae9f-45bc-b08c-bd8265deba90)
 
 </p>
 <br />
