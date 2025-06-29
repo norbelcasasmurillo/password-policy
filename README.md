@@ -6,25 +6,36 @@
 <h1>Active Directory - Group Policy Management: Password Policies</h1>
 This tutorial outlines how to configure domain-wide password policies using Group Policy Management in Active Directory.<br />
 
+<h2>Why Use Password Policies?</h2>
+Implementing password policies in Active Directory is a fundamental step in securing your organization's network. These policies enforce rules such as minimum password length, complexity requirements, and password history, which help:
+
+- Prevent weak or easily guessable passwords
+
+- Reduce the risk of unauthorized access
+
+- Ensure compliance with industry standards or regulatory requirements
+
+- Encourage better user security habits
+
+By centrally managing these settings through Group Policy, administrators can apply consistent security measures across all domain-joined devices.
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Computer)
-- Remote Desktop
-- Internet Information Services (IIS)
+- Microsoft Azure (Virtual Machines – Optional) 
+- Remote Desktop (RDP) (Optional) 
+- Group Policy Management
+- Active Directory
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>List of Prerequisites</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- A working Domain Controller
+- At least one domain-joined client machine.
 
-<h2>Lifecycle Stages</h2>
+<h2>Configuration Steps</h2>
 
 <p align="center">
 Domain Controller -> Server Manager -> Tools -> Group Policy Management 
@@ -126,6 +137,6 @@ Open "Store Passwords using reversible encryption" Properties. Ensure "Store Pas
 <h3 align="center">Conclusion</h3>
 
 <p align="center">
-Great job! You've successfully set up osTicket on your Windows virtual machine. To avoid unnecessary charges, be sure to shut down the VM in Azure when you're not using it. Well done on completing this project!
-</p>
+
+**Great job!** You've successfully configured domain-wide password policies using Group Policy Management in Active Directory. These settings help enforce strong password standards across your organization, improving overall security posture. Remember to regularly review and update these policies to align with evolving security requirements and organizational needs. Well done on completing this important configuration!</p>
 
