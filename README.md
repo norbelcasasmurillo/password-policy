@@ -38,7 +38,7 @@ By centrally managing these settings through Group Policy, administrators can ap
 <h2>Configuration Steps</h2>
 
 <p align="center">
-Domain Controller -> Server Manager -> Tools -> Group Policy Management 
+Domain Controller (Log in) -> Server Manager -> Tools -> Group Policy Management 
 
 </p>
 <p>
