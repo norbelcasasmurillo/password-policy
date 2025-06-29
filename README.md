@@ -85,7 +85,7 @@ Open "Password must meet complexity requirements" Properties. Ensure that "Passw
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/7bb4895e-ee06-4d2d-b7e1-a1b72998df85)
+![image](https://github.com/user-attachments/assets/8ab9d752-b094-43cd-8891-de037eb779aa)
 
 </p>
 <br />
@@ -129,7 +129,7 @@ Open "Store Passwords using reversible encryption" Properties. Ensure "Store Pas
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/bdf7366c-0081-4133-aef2-e1aa22c61318)
+![image](https://github.com/user-attachments/assets/ce08b340-12cd-42d2-b02a-26f78e1bc9bc)
 
 </p>
 <br />
