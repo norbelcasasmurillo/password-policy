@@ -43,7 +43,7 @@ Domain Controller (Log in) -> Server Manager -> Tools -> Group Policy Management
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/102870fa-43ca-4c71-a73c-8dbce9327109)
+![image](https://github.com/user-attachments/assets/36eab2ae-5384-47de-8bf6-49af6aef959f)
 
 </p>
 <br />
@@ -54,7 +54,7 @@ Locate "Default Domain Policy" within the Forest. Then right click it and click 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/e1ae9225-5f31-4179-b176-5227a4f442f5)
+![image](https://github.com/user-attachments/assets/eacccd92-6463-42c3-98ae-3febad367ada)
 
 </p>
 <br />
