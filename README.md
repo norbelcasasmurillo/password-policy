@@ -70,7 +70,7 @@ Computer Configuration -> Policies -> Window Setting -> Security Setting -> Acco
 <br />
 
 <p align="center">
-Open Minimum Password length Properties. Adjust password length to 14 characters. Then click OK.
+Open Minimum Password length Properties. Adjust password length to 14 characters. Then click OK. (You can click on the "Explain" tab for more information.) 
 
 </p>
 <p>
@@ -80,7 +80,7 @@ Open Minimum Password length Properties. Adjust password length to 14 characters
 <br />
 
 <p align="center">
-Open "Password must meet complexity requirements" Properties. Ensure that "Password must meet complexity requirements" is enabled. Then click OK.
+Open "Password must meet complexity requirements" Properties. Ensure that "Password must meet complexity requirements" is enabled. Then click OK. (You can click on the "Explain" tab for more information.) 
 
 </p>
 <p>
@@ -91,7 +91,7 @@ Open "Password must meet complexity requirements" Properties. Ensure that "Passw
 <br />
 
 <p align="center">
-Open "Maximum password age" Properties. Adjust "Maximum password age" to 30 days if your scenario is a high-security, or legacy-regulated settings. Or you can put 60 days if you are Ideally thinking about typical business environments that maintain good security hygiene but are not bound by strict compliance rules demanding shorter password lifetimes. Then click OK.
+Open "Maximum password age" Properties. Adjust "Maximum password age" to 30 days if your scenario is a high-security, or legacy-regulated settings. Or you can put 60 days if you are Ideally thinking about typical business environments that maintain good security hygiene but are not bound by strict compliance rules demanding shorter password lifetimes. Then click OK. (You can click on the "Explain" tab for more information.) 
 
 </p>
 <p>
@@ -102,7 +102,7 @@ Open "Maximum password age" Properties. Adjust "Maximum password age" to 30 days
 <br />
 
 <p align="center">
-Open "Enforce Password History" Properties. Ensure that "Enforce Password History" stays on 24 for the domain controller. Then click OK.
+Open "Enforce Password History" Properties. Ensure that "Enforce Password History" stays on 24 for the domain controller. Then click OK. (You can click on the "Explain" tab for more information.) 
 
 </p>
 <p>
@@ -113,7 +113,7 @@ Open "Enforce Password History" Properties. Ensure that "Enforce Password Histor
 <br />
 
 <p align="center">
-Open "Minimum Password age" Properties. Adjust "Minimum Password age" to 1 day, which usually for most secure environments. Or set it between 2-7 days for high-security or compliance-driven organizations. Then click OK.
+Open "Minimum Password age" Properties. Adjust "Minimum Password age" to 1 day, which usually for most secure environments. Or set it between 2-7 days for high-security or compliance-driven organizations. Then click OK. (You can click on the "Explain" tab for more information.) 
 
 </p>
 <p>
@@ -124,7 +124,7 @@ Open "Minimum Password age" Properties. Adjust "Minimum Password age" to 1 day, 
 <br />
 
 <p align="center">
-Open "Store Passwords using reversible encryption" Properties. Ensure "Store Passwords using reversible encryption" is diabled. It should never be enabled unless application requirements outweights the need to protect password information. Then click OK. So the next time someone changes their password, all of these password requirements must be fulfilled.
+Open "Store Passwords using reversible encryption" Properties. Ensure "Store Passwords using reversible encryption" is diabled. It should never be enabled unless application requirements outweights the need to protect password information. Then click OK. So the next time someone changes their password, all of these password requirements must be fulfilled. (You can click on the "Explain" tab for more information.) 
 
 </p>
 <p>
