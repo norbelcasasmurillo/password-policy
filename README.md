@@ -4,7 +4,7 @@
 </p>
 
 <h1>Active Directory - Group Policy Management: Password Policies</h1>
-This tutorial outlines how to configure domain-wide password policies using Group Policy Management in Active Directory.<br />
+This tutorial outlines how to configure domain-wide password policies using Group Policy Management within an Active Directory environment.<br />
 
 <h2>Why Use Password Policies?</h2>
 Implementing password policies in Active Directory is a fundamental step in securing your organization's network. These policies enforce rules such as minimum password length, complexity requirements, and password history, which help:
