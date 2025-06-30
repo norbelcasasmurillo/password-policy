@@ -23,8 +23,9 @@ By centrally managing these settings through Group Policy, administrators can ap
 
 - Microsoft Azure (Virtual Machines – Optional) 
 - Remote Desktop (RDP) (Optional) 
-- Group Policy Management
-- Active Directory
+- Active Directory Domain Services (AD DS)
+- Group Policy Management Console (GPMC, via Active Directory)
+
 
 <h2>Operating Systems Used </h2>
 
