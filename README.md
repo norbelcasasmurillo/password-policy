@@ -1,9 +1,9 @@
 <p align="center">
 
-![image](https://github.com/user-attachments/assets/68b61d3f-9575-41c2-80ec-05cbb1f5f5b0)
+<img width="1037" height="469" alt="image" src="https://github.com/user-attachments/assets/4ef288e3-1c4c-4586-a758-be2e81b921ed" />
 </p>
 
-<h1>Active Directory - Group Policy Management: Password Policies</h1>
+<h1>Group Policy Management: Password Policies</h1>
 This tutorial outlines how to configure domain-wide password policies using Group Policy Management within an Active Directory environment.<br />
 
 <h2>Why Use Password Policies?</h2>
